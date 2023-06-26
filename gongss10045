@@ -1,0 +1,7 @@
+echo "#GongSS10045" >> README.md 
+git init 
+git add README.md 
+git commit -m "第一次提交" 
+git分支 -M main 
+git远程添加原点https://github.com/GongSS1004/GongSS10045.git
+ git Push - u 起源主要
